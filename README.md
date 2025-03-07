@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Arjun Rajkumar 👋
+
+### About me
+- Graduate with a Bachelor of Science, majoring in Data Science
+- 2 years of experience as a Cloud Engineer at ANZ, building out their AWS platform
+- 6 months of experience as a Data Engineer at Betr
+- Currently working on getting my SWE skills up
 
 <!--
 **arjunrajkumar-ds/arjunrajkumar-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
