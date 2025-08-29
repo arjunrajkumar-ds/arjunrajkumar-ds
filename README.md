@@ -3,8 +3,7 @@
 ### About me
 - University of Melbourne graduate with a Bachelor of Science, majoring in Data Science
 - Currently pursuing a Masters of DS at Monash University
-- 2 years of experience as a Cloud Engineer at ANZ
-- 1 year of experience as a Data Engineer at Betr
+- Experience working in both cloud (AWS) and data engineering capacity at ANZ & Betr
 
 <!--
 **arjunrajkumar-ds/arjunrajkumar-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
